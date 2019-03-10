@@ -1,0 +1,10 @@
+{
+  "name": "bitmex-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "anton.korniichuk <anton.korniichu@e-hps.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ccxt": "^1.18.354"
+  }
+}
