@@ -5,6 +5,13 @@
   "author": "anton.korniichuk <anton.korniichu@e-hps.com>",
   "license": "MIT",
   "dependencies": {
-    "ccxt": "^1.18.354"
+    "@types/node": "^11.11.0",
+    "bitmex-node": "^1.7.0",
+    "bitmex-realtime-api": "^0.4.0",
+    "ccxt": "^1.18.354",
+    "rxjs": "^6.4.0",
+    "tsc": "^1.20150623.0",
+    "tslib": "^1.9.3",
+    "typescript": "^3.3.3333"
   }
 }
